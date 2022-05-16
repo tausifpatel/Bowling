@@ -1,0 +1,15 @@
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/bin/Debug/net5.0/bawling.deps.json
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/bin/Debug/net5.0/bawling.runtimeconfig.json
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/bin/Debug/net5.0/bawling.runtimeconfig.dev.json
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/bin/Debug/net5.0/bawling.dll
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/bin/Debug/net5.0/ref/bawling.dll
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/bin/Debug/net5.0/bawling.pdb
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.csproj.AssemblyReference.cache
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.AssemblyInfoInputs.cache
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.AssemblyInfo.cs
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.csproj.CoreCompileInputs.cache
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.dll
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/ref/bawling.dll
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.pdb
+/Users/mohmedtausif/Desktop/kata/bawling/bawling/obj/Debug/net5.0/bawling.genruntimeconfig.cache
